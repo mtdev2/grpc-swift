@@ -1,6 +1,9 @@
 ---
-name: 🐛 Bug Report
-about: If something isn't working as expected 🤔
+name: "\U0001F41B Bug Report"
+about: "If something isn't working as expected \U0001F914"
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
@@ -49,4 +52,3 @@ export GRPC_VERBOSITY="DEBUG"
 | protoc-gen-swiftgrpc Version  |   x.x.x                                                       |
   </pre>
 </details>
-
